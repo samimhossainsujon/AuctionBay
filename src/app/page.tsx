@@ -176,7 +176,7 @@ export default function Home() {
             Discover Amazing Deals
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Bid on millions of items or find exactly what you're looking for with our advanced search
+            Bid on millions of items or find exactly what you&#39;re looking for with our advanced search
           </p>
           
           {/* Search Bar */}
@@ -364,7 +364,7 @@ export default function Home() {
                 <span className="text-xl font-bold">AuctionBay</span>
               </div>
               <p className="text-gray-400">
-                The world's largest online auction marketplace
+                The world&lsquo;s largest online auction marketplace
               </p>
             </div>
             <div>

@@ -36,7 +36,7 @@ export default function ContactUsPage() {
           <div className="text-center">
             <h1 className="text-4xl font-bold text-gray-900 mb-4">Contact Us</h1>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              We're here to help! Get in touch with our support team for any questions or assistance.
+              We&lsquo;re here to help! Get in touch with our support team for any questions or assistance.
             </p>
           </div>
         </div>
@@ -61,7 +61,7 @@ export default function ContactUsPage() {
                   <div>
                     <h3 className="font-semibold text-gray-900">Email</h3>
                     <p className="text-gray-600">support@auctionbay.com</p>
-                    <p className="text-sm text-gray-500">We'll respond within 24 hours</p>
+                    <p className="text-sm text-gray-500">We&apos;ll respond within 24 hours</p>
                   </div>
                 </div>
 
@@ -138,7 +138,7 @@ export default function ContactUsPage() {
               <CardHeader>
                 <CardTitle>Send us a Message</CardTitle>
                 <p className="text-gray-600">
-                  Fill out the form below and we'll get back to you as soon as possible.
+                  Fill out the form below and we&lsquo;ll get back to you as soon as possible.
                 </p>
               </CardHeader>
               <CardContent>
@@ -240,7 +240,7 @@ export default function ContactUsPage() {
               <CardContent className="p-6">
                 <h3 className="font-semibold text-gray-900 mb-3">How do I place a bid?</h3>
                 <p className="text-gray-600 text-sm">
-                  Simply enter your bid amount on the item page and click "Place Bid". Make sure your bid meets the minimum requirement.
+                  Simply enter your bid amount on the item page and click &ldquo;Place Bid&ldquo;. Make sure your bid meets the minimum requirement.
                 </p>
               </CardContent>
             </Card>
@@ -272,7 +272,7 @@ export default function ContactUsPage() {
               <CardContent className="p-6">
                 <h3 className="font-semibold text-gray-900 mb-3">How do I become a seller?</h3>
                 <p className="text-gray-600 text-sm">
-                  Create an account, verify your identity, and start listing items. It's free to join and easy to get started.
+                  Create an account, verify your identity, and start listing items. It&#39;s free to join and easy to get started.
                 </p>
               </CardContent>
             </Card>
